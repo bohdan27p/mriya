@@ -1,0 +1,76 @@
+.container{
+    font-family: "Raleway";
+    width: 1200px;
+    margin: 0 auto;
+}
+.top{
+    box-shadow: inset 5em 1em gold;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+.container p{
+    line-height: 25px;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+.two{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+.three{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+.four{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+.one_one{
+    margin-right: 15px;
+}
+.two_two{
+    margin-left: 15px;
+}
+.hh{
+    border-top: 3px solid black;
+}
+.three-three{
+    margin-right: 15px;
+}
+.four-four{
+    margin-left: 15px;
+}
+a{
+    width: 200px;
+    height: 40px;
+    text-decoration: none;
+    background-color: gold;
+    text-align: center;
+    display: block;
+    color: white;
+    padding-top: 17px;
+}
+.tolmachov{
+    display: flex;
+    flex-direction: row;
+    border-top: 5px solid red;
+}
+.five{
+    margin-right: 15px;
+}
+.hiper{
+    margin: 0 auto;
+    margin-bottom: 25px;
+    margin-left: 465px;
+}
+a:hover{
+    color: rgb(214, 165, 5);
+    transition: 0.5s;
+}
